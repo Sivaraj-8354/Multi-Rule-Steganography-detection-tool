@@ -1,7 +1,9 @@
-numpy
-matplotlib
-opencv-python
-pillow
-librosa
-pywt
-scipy
+numpy>=1.18.0
+pillow>=8.0.0
+scipy>=1.4.0
+scikit-image>=0.17.0
+matplotlib>=3.3.0
+opencv-python>=4.5.0
+tensorflow>=2.5.0
+scikit-learn>=0.24.0
+pandas>=1.2.0
